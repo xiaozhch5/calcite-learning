@@ -1,5 +1,5 @@
 # Apache Calcite入门
-现假如我们有个文件data.csv，现在要用sql查询的方法从文件中查询所有数据。
+假如我们有个文件data.csv，现在要用sql查询的方法从文件中查询所有数据。
 
 在这个项目中使用的是Apache Calcite模块。
 
